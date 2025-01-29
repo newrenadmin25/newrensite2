@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ownership Team - New Renaissance Music</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>New Renaissance Music</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="artists.html">Artists</a>
+            <a href="ownership.html">Ownership Team</a>
+            <a href="contact.html">Contact</a>
+            <a href="newsletter.html">Newsletter</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Ownership Team</h2>
+        <div class="ownership-profile">
+            <article class="ownership-card">
+                <h4>Darren</h4>
+                <p>Founder and co-owner, Darren drives the mission to empower artists and bridge generations. He focuses on strategic innovation and artistic growth.</p>
+            </article>
+            <article class="ownership-card">
+                <h4>Alexis</h4>
+                <p>Co-owner, Social Media Manager, and Artist Manager. Alexis leads efforts in digital strategy, community engagement, and artist promotion.</p>
+            </article>
+            <article class="ownership-card">
+                <h4>Charles</h4>
+                <p>Founder and visionary behind New Renaissance Music. Charles drives the mission to empower artists and bridge generations.</p>
+            </article>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 New Renaissance Music. All rights reserved.</p>
+    </footer>
+</body>
+</html>
